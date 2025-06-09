@@ -104,24 +104,6 @@ UX Testing Agent (Manus API)
 Final Code Output + UX Report
 
 ```
-## Sample Console UI
-╔══════════════════════════════════════════╗
-║        EvoForge Light - Design Panel     ║
-╠══════════════════════════════════════════╣
-║ Upload design sample [ Browse ]          ║
-║ Enter your vision:                       ║
-║  "I want a neon-cyberpunk landing page…" ║
-║ [Refine Prompt] [Run Evolution]          ║
-╠══════════════════════════════════════════╣
-║ 🧠 Prompt Engine → Optimized Prompt       ║
-║ 🛠️ Gen #1: Ugly but functional            ║
-║ 🛠️ Gen #5: Starting to look sick          ║
-║ 🛠️ Gen #10: Reactivity added              ║
-║ 🎯 Gen #25: Wow. This slaps.              ║
-╠══════════════════════════════════════════╣
-║ See Visuals [Carousel]  🔁 Iteration Logs ║
-║ Export Code 💾    |   Restart Evolution 🔄 ║
-╚══════════════════════════════════════════╝
 
 
 ## 🔮 Future Features
